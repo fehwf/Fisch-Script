@@ -1,8 +1,8 @@
 # 🎣 Roblox Fisch Script - Ultimate Fishing Automation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/YourUsername/RobloxFischScript?style=social)](https://github.com/YourUsername/RobloxFischScript/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/YourUsername/RobloxFischScript)](https://github.com/YourUsername/RobloxFischScript/commits/main)
+[![Stars](https://img.shields.io/github/stars/YourUsername/RobloxFischScript?style=social)](https://github.com/fehwf/Fisch-Script/)
+[![Last Commit](https://img.shields.io/github/last-commit/YourUsername/RobloxFischScript)](https://github.com/fehwf/Fisch-Script/)
 
 ## 🌟 Overview
 
